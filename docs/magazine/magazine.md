@@ -20,8 +20,8 @@ Welcome to the Magazine Issues page of the Indian Subcontinental Research & Anal
 0. [Issue 1: Indian National Security Architecture](issue1.md)
    - The brief view of Indian National Security Architecture.
 
-1. [Issue 2: National Security Council Secretariat](issue2.md)
-   - The brief view of National Security Council Secretariat.
+1. [Issue 2: Indian Ministry of Defence](issue2.md)
+   - The brief view of Indian Ministry of Defence.
 
 2. [Issue 3: Indian Security Forces](issue3.md)
    - The brief view of Indian Security Forces.
@@ -34,6 +34,18 @@ Welcome to the Magazine Issues page of the Indian Subcontinental Research & Anal
 
 5. [Issue 6: Indian Air-Force](issue6.md)
    - The brief view of Indian Air-Force.
+
+6. [Issue 7: Indian Central Armed Police Forces](issue7.md)
+   - The brief view of Indian Central Armed Police Forces (CAPF).
+
+7. [Issue 8: Indian Intelligence Community](issue8.md)
+   - The brief view of Indian Intelligence Community (IC).
+
+8. [Issue 9: Indian Investigation Community](issue9.md)
+   - The brief view of Indian Investigation Community.
+
+9. [Issue 10: Indian Law Enforcement Community](issue10.md)
+   - The brief view of Indian Law Enforcement Community.
 
 Feel free to click on the issue titles to explore the contents of each magazine issue.
 
