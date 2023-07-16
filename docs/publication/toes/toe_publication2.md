@@ -24,7 +24,7 @@ This publication provides an in-depth examination of the Table of Organization a
 
 ## Author
 
-Section 24
+Section 20
 
 ## Date
 

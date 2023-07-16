@@ -24,7 +24,7 @@ This publication delves into the Table of Organization and Equipment (TO&E) of t
 
 ## Author
 
-Section 24
+Section 20
 
 ## Date
 

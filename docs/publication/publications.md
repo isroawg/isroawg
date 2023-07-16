@@ -48,27 +48,27 @@ Stay updated with the latest trends, challenges, and developments shaping the se
 
 1. [TO&E of Srilanka Military](toes/toe_publication1.md)
    - Summary: A brief overview of the publication's content and key findings.
-   - Author: [ Section 24 ]
+   - Author: [ Section 20 ]
    - Date: [ soon ]
 
 2. [TO&E of Bangladesh Military](toes/toe_publication2.md)
    - Summary: A brief overview of the publication's content and key findings.
-   - Author: [ Section 24 ]
+   - Author: [ Section 20 ]
    - Date: [ soon ]
 
 3. [TO&E of Nepal Military](toes/toe_publication3.md)
    - Summary: A brief overview of the publication's content and key findings.
-   - Author: [ Unit 24 ]
+   - Author: [ Section 20 ]
    - Date: [ soon ]
 
 4. [TO&E of Bhutan Military](toes/toe_publication4.md)
    - Summary: A brief overview of the publication's content and key findings.
-   - Author: [ Unit 24 ]
+   - Author: [ Section 20 ]
    - Date: [ soon ]
 
 5. [TO&E of Maldives Military](toes/toe_publication5.md)
    - Summary: A brief overview of the publication's content and key findings.
-   - Author: [ Unit 24 ]
+   - Author: [ Section 20 ]
    - Date: [ soon ]
 
 ## Future Publications
