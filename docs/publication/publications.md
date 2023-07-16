@@ -19,26 +19,56 @@ Stay updated with the latest trends, challenges, and developments shaping the se
 
 ### ORBATs (Order of Battle)
 
-1. [Indian Military of ORBAT](orbats/orbat_publication1.md)
+1. [ORBAT of Srilanka Military](orbats/orbat_publication1.md)
    - Summary: A brief overview of the publication's content and key findings.
    - Author: [ Unit 24 ]
    - Date: [ soon ]
 
-2. [Indian CAPF of ORBAT](orbats/orbat_publication2.md)
+2. [ORBAT of Bangladesh Military](orbats/orbat_publication2.md)
+   - Summary: A brief overview of the publication's content and key findings.
+   - Author: [ Unit 24 ]
+   - Date: [ soon ]
+
+3. [ORBAT of Nepal Military](orbats/orbat_publication3.md)
+   - Summary: A brief overview of the publication's content and key findings.
+   - Author: [ Unit 24 ]
+   - Date: [ soon ]
+
+4. [ORBAT of Bhutan Military](orbats/orbat_publication4.md)
+   - Summary: A brief overview of the publication's content and key findings.
+   - Author: [ Unit 24 ]
+   - Date: [ soon ]
+
+5. [ORBAT of Maldives Military](orbats/orbat_publication5.md)
    - Summary: A brief overview of the publication's content and key findings.
    - Author: [ Unit 24 ]
    - Date: [ soon ]
 
 ### TO&Es (Table of Organization and Equipment)
 
-1. [Indian Military of TO&E](toes/toe_publication1.md)
+1. [TO&E of Srilanka Military](toes/toe_publication1.md)
    - Summary: A brief overview of the publication's content and key findings.
    - Author: [ Section 24 ]
    - Date: [ soon ]
 
-2. [Indian CAPF of TO&E](toes/toe_publication2.md)
+2. [TO&E of Bangladesh Military](toes/toe_publication2.md)
    - Summary: A brief overview of the publication's content and key findings.
    - Author: [ Section 24 ]
+   - Date: [ soon ]
+
+3. [TO&E of Nepal Military](toes/toe_publication3.md)
+   - Summary: A brief overview of the publication's content and key findings.
+   - Author: [ Unit 24 ]
+   - Date: [ soon ]
+
+4. [TO&E of Bhutan Military](toes/toe_publication4.md)
+   - Summary: A brief overview of the publication's content and key findings.
+   - Author: [ Unit 24 ]
+   - Date: [ soon ]
+
+5. [TO&E of Maldives Military](toes/toe_publication5.md)
+   - Summary: A brief overview of the publication's content and key findings.
+   - Author: [ Unit 24 ]
    - Date: [ soon ]
 
 ## Future Publications

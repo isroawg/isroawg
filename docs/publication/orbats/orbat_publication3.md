@@ -1,4 +1,4 @@
-# Bangladesh Military ORBAT
+# Nepal Military ORBAT
 
 | [![ISRAWG Logo](../../text_logo.png)](https://israwg.github.io/) |
 | :-------------------------------------------------: |
@@ -13,14 +13,14 @@ ___
 
 ## Summary
 
-This publication presents a detailed analysis of the Order of Battle (ORBAT) of the Bangladesh Military. It explores the structure, organization, and deployment of various Military branches responsible for internal security and counterinsurgency operations within the country.
+This publication provides a comprehensive overview of the Nepal Military's Order of Battle (ORBAT), detailing the organizational structure, formation, and disposition of different arms within the military. The analysis explores the strategic implications of the ORBAT in the context of national security and defense preparedness.
 
 ## Key Findings
 
-- Overview of the organizational structure and hierarchy of the Bangladesh Military.
-- Insights into the specialized roles and responsibilities of different Military units.
-- Examination of the strategic positioning of Military in different regions to maintain law and order.
-- Understanding the coordination and collaboration between Military and other law enforcement agencies.
+- Examination of the Nepal Army's division and formation of different arms into separate parts or sections.
+- Detailed insights into the arrangement of command and staff, administrative personnel, and occupational specialists.
+- Understanding the means of transport, communication, supply, maintenance, construction, and medical care.
+- Analysis of the kind and quantity of individual and unit armament, as well as supporting weapons and tactics.
 
 ## Author
 

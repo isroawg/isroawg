@@ -1,11 +1,13 @@
 # **Terms of Use**
 
-| [![ISRAWG Logo](../text_logo.png)](https://israwg.github.io/) |
-| :-------------------------------------------------: |
-| [Home](home.md) |
-| [About](about.md) |
-| [Research Areas](research.md) |
-| [Publications](publications.md) |
+| [![ISRAWG Logo](../text_logo.png)](https://israwg.github.io) |
+| :-------------------------------------------------:       |
+| [Home](../home.md)                                           |
+| [About](about.md)                                         |
+| [Research Areas](research.md)                             |
+| [Publications](../publication/publications.md)            |
+| [Magazine](../magazine/magazine.md)                       |
+| [Sampark Kare](sampark.md)                                |
 
 ___
 

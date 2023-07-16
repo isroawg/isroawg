@@ -1,4 +1,4 @@
-# Indian Military TO&E
+# Srilanka Military TO&E
 
 | [![ISRAWG Logo](../../text_logo.png)](https://israwg.github.io/) |
 | :-------------------------------------------------: |
@@ -13,7 +13,7 @@ ___
 
 ## Summary
 
-This publication delves into the Table of Organization and Equipment (TO&E) of the Indian Military, offering insights into the composition, equipment, and operational structure of various military units. The study examines the role of TO&E in determining the combat effectiveness and readiness of the Indian Armed Forces.
+This publication delves into the Table of Organization and Equipment (TO&E) of the Srilanka Military, offering insights into the composition, equipment, and operational structure of various military units. The study examines the role of TO&E in determining the combat effectiveness and readiness of the Srilanka Armed Forces.
 
 ## Key Findings
 

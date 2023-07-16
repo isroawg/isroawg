@@ -1,4 +1,4 @@
-# Bangladesh Military ORBAT
+# Maldives Military TO&E
 
 | [![ISRAWG Logo](../../text_logo.png)](https://israwg.github.io/) |
 | :-------------------------------------------------: |
@@ -13,18 +13,18 @@ ___
 
 ## Summary
 
-This publication presents a detailed analysis of the Order of Battle (ORBAT) of the Bangladesh Military. It explores the structure, organization, and deployment of various Military branches responsible for internal security and counterinsurgency operations within the country.
+This publication delves into the Table of Organization and Equipment (TO&E) of the Maldives Military, offering insights into the composition, equipment, and operational structure of various military units. The study examines the role of TO&E in determining the combat effectiveness and readiness of the Maldives Armed Forces.
 
 ## Key Findings
 
-- Overview of the organizational structure and hierarchy of the Bangladesh Military.
-- Insights into the specialized roles and responsibilities of different Military units.
-- Examination of the strategic positioning of Military in different regions to maintain law and order.
-- Understanding the coordination and collaboration between Military and other law enforcement agencies.
+- Detailed breakdown of the authorized number, grades, and qualifications of military personnel.
+- Analysis of the distribution of weapons, transportation, and principal equipment among the units.
+- Understanding the provisions for supply, maintenance, medical care, and other logistical aspects.
+- Examination of the correlation between unit armament and tactical strategies.
 
 ## Author
 
-Unit 24
+Section 24
 
 ## Date
 

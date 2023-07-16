@@ -1,4 +1,4 @@
-# Indian CAPF TO&E
+# Bangladesh Military TO&E
 
 | [![ISRAWG Logo](../../text_logo.png)](https://israwg.github.io/) |
 | :-------------------------------------------------: |
@@ -13,14 +13,14 @@ ___
 
 ## Summary
 
-This publication provides an in-depth examination of the Table of Organization and Equipment (TO&E) specific to the Indian Central Armed Police Forces (CAPF). It offers valuable insights into the organizational structure, equipment allocation, and capabilities of various CAPF units involved in internal security and law enforcement operations.
+This publication provides an in-depth examination of the Table of Organization and Equipment (TO&E) specific to the Bangladesh Military. It offers valuable insights into the organizational structure, equipment allocation, and capabilities of various military branch units involved in internal security and law enforcement operations.
 
 ## Key Findings
 
-- Overview of the authorized number, grades, and qualifications of CAPF personnel.
-- Detailed analysis of the distribution of weapons, transportation, and essential equipment among different CAPF units.
-- Understanding the provisions for supply, maintenance, and medical support for CAPF personnel.
-- Examination of the specialized roles and functions of various CAPF units in maintaining law and order.
+- Overview of the authorized number, grades, and qualifications of military personnel.
+- Detailed analysis of the distribution of weapons, transportation, and essential equipment among different military units.
+- Understanding the provisions for supply, maintenance, and medical support for military personnel.
+- Examination of the specialized roles and functions of various military units in maintaining law and order.
 
 ## Author
 

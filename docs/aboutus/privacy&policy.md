@@ -2,10 +2,10 @@
 
 | [![ISRAWG Logo](../text_logo.png)](https://israwg.github.io) |
 | :-------------------------------------------------:       |
-| [Home](home.md)                                           |
+| [Home](../home.md)                                           |
 | [About](about.md)                                         |
 | [Research Areas](research.md)                             |
-| [Publications](../publication/publications.md)                           |
+| [Publications](../publication/publications.md)            |
 | [Magazine](../magazine/magazine.md)                       |
 | [Sampark Kare](sampark.md)                                |
 
