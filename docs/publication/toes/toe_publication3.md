@@ -1,6 +1,6 @@
 # Nepal Military TO&E
 
-| [![ISRAWG Logo](../../text_logo.png)](https://israwg.github.io/) |
+| ![ISRAWG Logo](../../text_logo.png) |
 | :-------------------------------------------------: |
 | [Home](../../home.md) |
 | [About](../../aboutus/about.md) |

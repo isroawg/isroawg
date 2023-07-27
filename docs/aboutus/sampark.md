@@ -1,6 +1,6 @@
 # **Sampark Kare !**
 
-| [![ISRAWG Logo](../text_logo.png)](https://israwg.github.io) |
+| ![ISRAWG Logo](../text_logo.png) |
 | :-------------------------------------------------:       |
 | [Home](../home.md)                                           |
 | [About](about.md)                                         |
@@ -41,6 +41,6 @@ ___
 
 ![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../text_logo.png)
 
-© 2023 ISRAWG ™️. All rights reserved. Indian Subcontinental Research & Analytical Working Group is Sole Proprietorship of bhrAtRutva Group.
-
+                        © 2023 ISRAWG™️. All rights reserved. 
+    Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 ___
