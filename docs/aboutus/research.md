@@ -14,11 +14,15 @@ ___
 
 The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is dedicated to conducting in-depth research on the following countries within the Indian Subcontinent:
 
+- India
 - Bangladesh
 - Nepal
 - Bhutan
 - Sri Lanka
 - Maldives
+- Myanmar
+- Afganisthan
+- Pakistan
 
 The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is dedicated to conducting comprehensive research in various areas related to defense, security, and strategic studies within the Indian Subcontinent. Our research areas include, but are not limited to, the following:
 
@@ -44,6 +48,7 @@ ___
 
 ![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../text_logo.png)
 
-                        © 2023 ISRAWG™️. All rights reserved. 
+    © 2023 ISRAWG™️. All rights reserved. 
     Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+
 ___

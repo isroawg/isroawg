@@ -59,6 +59,7 @@ ___
 
 ![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../text_logo.png)
 
-                        © 2023 ISRAWG™️. All rights reserved. 
+    © 2023 ISRAWG™️. All rights reserved. 
     Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+
 ___
