@@ -6,6 +6,30 @@ ___
 
 The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is a dedicated research organization brigade associated with the bhratrutva Group. Our main focus is on research and analysis related to international conflicts, national security, military movements, defense studies, and strategies. We are dedicated to enhancing the defense and security landscape of the Indian Subcontinent.
 
+___
+
+                    यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।
+                    अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥
+
+                    परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।
+                    धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥
+
+___
+
+## **Vision**
+
+The vision of the Indian Subcontinental Research & Analytical Working Group (ISRAWG) is to be a prominent and unbiased research forum dedicated to fostering peace, prosperity, national security, and the realization of Akhand Bharat in the Indian Subcontinent. Drawing inspiration from the ancient Indian warfare methodologies, including the Arthashastra, as well as the concept of Akhand Bharat, we strive to explore cultural, historical, and strategic dimensions that can contribute to regional harmony and cooperation.
+
+We envision a region where nations collaborate, grow together, and address shared challenges through well-informed research, strategic analysis, and the preservation of historical wisdom. By embracing the principles of Akhand Bharat and the strategic insights from the Arthashastra, which seek to unite the Indian subcontinent beyond political boundaries, we aim to promote inclusive development, mutual respect, and enhanced regional connectivity.
+
+## **Mission**
+
+Our mission at ISRAWG is to conduct in-depth research and analysis on the political, economic, social, and security dynamics of the Indian Subcontinent. By providing evidence-based insights and policy recommendations, we aim to contribute to regional development, promote sustainable practices, enhance national security cooperation, and foster better understanding among nations.
+
+With a special emphasis on the concept of Akhand Bharat and the strategic wisdom found in the Arthashastra, we seek to explore the historical, cultural, and strategic linkages that have shaped the region's identity and can serve as a foundation for stronger regional cooperation. By understanding the historical context and contemporary implications of these principles, we strive to identify pathways to peace, stability, and an integrated Indian subcontinent.
+
+Through our multidisciplinary approach and commitment to objectivity, we aspire to be a trusted source of information for policymakers, stakeholders, and the public. We seek to facilitate constructive dialogues, bridge divides, and promote cooperative initiatives that enhance national security and contribute to a united and prosperous Indian Subcontinent.
+
 ## **Research Areas:**
 
 1. International Conflict: We conduct comprehensive research on global conflicts, studying their causes, dynamics, and potential resolutions.
@@ -45,6 +69,9 @@ At the Indian Subcontinental Research & Analytical Working Group (ISRAWG), we up
 **Legal and Compliance:** ISRAWG operates within the bounds of the law and adheres to all applicable legal and regulatory requirements. We ensure compliance with relevant statutes, regulations, and guidelines governing our research, analysis, and operations. Our commitment to legal and regulatory compliance ensures the integrity and credibility of our work.
 
 We are dedicated to upholding the highest ethical standards, maintaining professionalism, preserving confidentiality, and complying with all applicable legal and regulatory frameworks. These principles are at the core of our organization and guide us in providing trusted and reliable research and analysis in the defense and security domain.
+
+                कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+                मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥
 
 Jai Hind
 

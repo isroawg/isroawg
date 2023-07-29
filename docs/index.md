@@ -14,7 +14,6 @@ Welcome to The Indian Subcontinental Research & Analytical Working Group (ISRAWG
 
 The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is a dedicated research organization analyzing critical issues in national security, defense strategies, and military movements within the Indian Subcontinent. Through comprehensive studies and expert analysis, ISRAWG aims to enhance regional stability and foster collaborative security efforts for peace and prosperity.
 
-
 ## [About ISRAWG](aboutus/about.md)
 
 At ISRAWG, we strive to provide valuable insights and strategic recommendations to address the complex challenges faced by the Indian Subcontinent. Our team of researchers and analysts work diligently to analyze international conflicts, national security issues, military movements, defense strategies, and more.
