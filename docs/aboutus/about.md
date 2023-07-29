@@ -4,7 +4,7 @@
 
 ___
 
-The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is a dedicated research organization associated with the bhratrutva Group. Our main focus is on research and analysis related to international conflicts, national security, military movements, defense studies, and strategies. We are dedicated to enhancing the defense and security landscape of the Indian Subcontinent.
+The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is a dedicated research organization brigade associated with the bhratrutva Group. Our main focus is on research and analysis related to international conflicts, national security, military movements, defense studies, and strategies. We are dedicated to enhancing the defense and security landscape of the Indian Subcontinent.
 
 ## **Research Areas:**
 

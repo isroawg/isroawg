@@ -8,6 +8,8 @@ The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is primar
 
 Thank you for your interest in contacting the Indian Subcontinental Research & Analytical Working Group (ISRAWG). To get in touch with us, please use one of the following secure communication methods:
 
+- **Slack Workspace**: For real-time communication and collaboration, 💬 join our Slack workspace by requesting invite using email to us at [israwg@protonmail.com](mailto:israwg@protonmail.com).
+
 - **Email:** Send your inquiries or collaboration requests to [israwg@protonmail.com](mailto:israwg@protonmail.com). We prioritize the use of ProtonMail for encrypted communication.
 
 - **Secure Messaging:** To initiate encrypted and confidential discussions, please request our contact details for Signal messaging by emailing [israwg@protonmail.com](mailto:israwg@protonmail.com).
