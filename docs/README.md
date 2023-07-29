@@ -6,11 +6,11 @@ ___
 
 ## **नमस्ते 🙏 🇮🇳**
 
-भारतीय उपमहाद्वीपीय अनुसंधान एवं विश्लेषणात्मक कार्य समूह (ISRAWG) में आपका स्वागत है जो मुख्य रूप से भ्रातृत्व समूह का प्रबुद्ध मंडल ब्रिगेड है.
+भारतीय उपमहाद्वीप अनुसंधान और विश्लेषणात्मक कार्य समूह (ISRAWG) में आपका स्वागत है, यह मुख्य रूप से भ्रातृत्व समूह का नीति अनुसंधान और विश्लेषण संगठन ब्रिगेड है.
 
-Bhaarateey Upamahaadveep Anusandhaan evan Vishleshanaatmak Kaary Samooh (ISRAWG) mein aapaka svaagat hai jo mukhy roop se bhratrutva samooh ka prabuddh mandal briged hai..
+Bhaarateey Upamahaadveep Anusandhaan evan Vishleshanaatmak Kaary Samooh (ISRAWG) mein aapaka svaagat hai, jo ki mukhy roop se bhraatrtv samooh ka neeti anusandhaan aur vishleshan sangathan briged hai..
 
-Welcome to The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is primarily ThinkTank brigade of bhratrutva group.
+Welcome to The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is primarily policy research and analysis organization brigade of bhrAtRutva™️ group.
 
 The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is a dedicated research organization analyzing critical issues in national security, defense strategies, and military movements within the Indian Subcontinent. Through comprehensive studies and expert analysis, ISRAWG aims to enhance regional stability and foster collaborative security efforts for peace and prosperity.
 
