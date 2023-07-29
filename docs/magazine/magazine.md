@@ -2,8 +2,7 @@
 
 ![ISRAWG Logo](../israwg_logo.png)
 
-| [🏛️ Headquarters](../home.md) | [📚 Research Areas](../aboutus/research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](magazine.md) | [📮 Sampark Kare](../aboutus/sampark.md) |
-| :-----------------------: | :-------------------------------: | :-------------------------: | :---------------------: | :---------------------------------: |
+[🏛️ Headquarters](../home.md) | [📚 Research Areas](../aboutus/research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](magazine.md) | [📮 Sampark Kare](../aboutus/sampark.md)
 
 ___
 
