@@ -1,13 +1,8 @@
 # **Order of Battle (ORBAT) and Table of Organization and Equipment (TO&E)**
 
-| ![ISRAWG Logo](../../text_logo.png) |
-| :-------------------------------------------------: |
-| [Home](../../home.md) |
-| [About](../../aboutus/about.md) |
-| [Research Areas](../../aboutus/research.md) |
-| [Publications](../publications.md) |
-| [Magazine](../../magazine/magazine.md) |
-| [Sampark Kare](../../aboutus/sampark.md) |
+![ISRAWG Logo](../../israwg_logo.png)
+| [🏛️ Headquarters](../../home.md) | [📚 Research Areas](../../aboutus/research.md) | [📝 Publications](../../publication/publications.md) | [📰 Magazine](../../magazine/magazine.md) | [📮 Sampark Kare](../../aboutus/sampark.md) |
+| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
 
 ___
 
@@ -45,12 +40,12 @@ In contemporary military engagements, ORBATs have become digital and dynamic, al
 
 ___
 
-| 📝 [About Us](../../aboutus/about.md) | 📫 [Sampark Kare](../../aboutus/sampark.md) | [© Copyright ™️ Trademark](../../aboutus/copyright&trademark.md) | ℹ️  [Terms of Use](../../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../../israwg_logo.png)
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../../text_logo.png)
+📝 [About Us](../../aboutus/about.md) | 📫 [Sampark Kare](../../aboutus/sampark.md) | [© Copyright ™️ Trademark](../../aboutus/copyright&trademark.md) |
+ℹ️ [Terms of Use](../../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
 
-
-                        © 2023 ISRAWG™️. All rights reserved. 
-    Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISRAWG™️. All rights reserved.
+Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

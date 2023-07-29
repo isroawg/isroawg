@@ -1,17 +1,12 @@
 # **About**
 
-| ![ISRAWG Logo](../text_logo.png) |
-| :-------------------------------------------------:       |
-| [Home](../home.md)                                        |
-| [About](about.md)                                         |
-| [Research Areas](research.md)                             |
-| [Publications](../publication/publications.md)            |
-| [Magazine](../magazine/magazine.md)                       |
-| [Sampark Kare](sampark.md)                                |
+![ISRAWG Logo](../israwg_logo.png)
+| [🏛️ Headquarters](../home.md) | [📚 Research Areas](research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](sampark.md) |
+| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
 
 ___
 
-The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is a prominent think tank associated with the Bhratrutva Group. Our main focus is on research and analysis related to international conflicts, national security, military movements, defense studies, and strategies. We are dedicated to enhancing the defense and security landscape of the Indian Subcontinent.
+The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is a dedicated research organization associated with the bhratrutva Group. Our main focus is on research and analysis related to international conflicts, national security, military movements, defense studies, and strategies. We are dedicated to enhancing the defense and security landscape of the Indian Subcontinent.
 
 ## **Research Areas:**
 
@@ -55,11 +50,12 @@ We are dedicated to upholding the highest ethical standards, maintaining profess
 
 ___
 
-| 📝 [About Us](about.md) | 📫 [Sampark Kare](sampark.md) | [© Copyright ™️ Trademark](copyright&trademark.md) | ℹ️  [Terms of Use](termsofuse.md) | 🔒 [Privacy Policy](privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../text_logo.png)
+📝 [About Us](about.md) | 📫 [Sampark Kare](sampark.md) | [© Copyright ™️ Trademark](copyright&trademark.md) |
+ℹ️ [Terms of Use](termsofuse.md) | 🔒 [Privacy Policy](privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
 
-    © 2023 ISRAWG™️. All rights reserved. 
-    Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISRAWG™️. All rights reserved.
+Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

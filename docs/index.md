@@ -1,19 +1,14 @@
 # **Indian Subcontinental Research & Analytical Working Group (ISRAWG)**
 
-| ![ISRAWG Logo](text_logo.png) |
-| :-------------------------------------------------:     |
-| [Home](home.md)                                         |
-| [About](aboutus/about.md)                                       |
-| [Research Areas](aboutus/research.md)                           |
-| [Publications](publication/publications.md)                         |
-| [Magazine](magazine/magazine.md) |
-| [Sampark Kare](aboutus/sampark.md)                              |
+![ISRAWG Logo](israwg_logo.png)
+| [🏛️ Headquarters](home.md) | [📚 Research Areas](aboutus/research.md) | [📝 Publications](publication/publications.md) | [📰 Magazine](magazine/magazine.md) | [📮 Sampark Kare](aboutus/sampark.md) |
+| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
 
 ___
 
 नमस्ते :pray: :india:
 
-भारतीय उपमहाद्वीपीय अनुसंधान एवं विश्लेषणात्मक कार्य समूह (ISRAWG) में आपका स्वागत है जो मुख्य रूप से भ्रातृत्व समूह का प्रबुद्ध मंडल ब्रिगेड है
+भारतीय उपमहाद्वीपीय अनुसंधान एवं विश्लेषणात्मक कार्य समूह (ISRAWG) में आपका स्वागत है जो मुख्य रूप से भ्रातृत्व समूह का प्रबुद्ध मंडल ब्रिगेड है.
 
 Bhaarateey Upamahaadveep Anusandhaan evan Vishleshanaatmak Kaary Samooh (ISRAWG) mein aapaka svaagat hai jo mukhy roop se bhratrutva samooh ka prabuddh mandal briged hai..
 
@@ -27,15 +22,25 @@ At ISRAWG, we strive to provide valuable insights and strategic recommendations 
 
 ## [Research Areas](aboutus/research.md)
 
-Explore our diverse research areas to gain deeper insights into critical topics:
+Explore our comprehensive research areas to gain deeper insights into critical topics:
 
-- International Conflicts
-- National Security
-- Military Movements
-- Defense Studies and Strategies
-- Geopolitics and Regional Dynamics
-- Cybersecurity
-- Emerging Technologies
+1. International Conflicts: In-depth analysis of global conflicts and their impact on the Indian Subcontinent.
+
+2. National Security: Studying measures to safeguard the sovereignty and stability of the region.
+
+3. Military Movements: Analyzing military operations and movements within the Indian Subcontinent.
+
+4. Defense Studies and Strategies: Examining defense policies and strategic planning in the region.
+
+5. Geopolitics and Regional Dynamics: Understanding the political landscape and dynamics influencing the subcontinent.
+
+6. Cybersecurity: Investigating digital threats and strategies for safeguarding cyberspace.
+
+7. Emerging Technologies: Researching technological advancements with potential implications for the region.
+
+8. Intelligence Studies: Delving into intelligence gathering and analysis to enhance situational awareness.
+
+Our diverse areas of expertise enable us to contribute valuable insights towards strengthening security and fostering cooperation in the Indian Subcontinent and beyond.
 
 ## [Publications](publication/publications.md)
 
@@ -53,13 +58,15 @@ We welcome collaboration and engagement with individuals and organizations who s
 
 Thank you for visiting ISRAWG. We invite you to explore our website and access our valuable resources to expand your knowledge and understanding of the defense and security landscape in the Indian Subcontinent.
 
+Jai Hind
 ___
 
-| 📝 [About Us](aboutus/about.md) | 📫 [Sampark Kare](aboutus/sampark.md) | [© Copyright ™️ Trademark](aboutus/copyright&trademark.md) | ℹ️  [Terms of Use](aboutus/termsofuse.md) | 🔒 [Privacy Policy](aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](israwg_logo.png)
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](text_logo.png)
+📝 [About Us](aboutus/about.md) | 📫 [Sampark Kare](aboutus/sampark.md) | [© Copyright ™️ Trademark](aboutus/copyright&trademark.md) |
+ℹ️ [Terms of Use](aboutus/termsofuse.md) | 🔒 [Privacy Policy](aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
 
-    © 2023 ISRAWG™️. All rights reserved. 
-    Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISRAWG™️. All rights reserved.
+Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

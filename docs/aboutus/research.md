@@ -1,12 +1,8 @@
 # **Research Areas**
 
-| ![ISRAWG Logo](../text_logo.png) |
-| :-------------------------------------------------:       |
-| [Home](../home.md)                                        |
-| [About](about.md)                                         |
-| [Publications](../publication/publications.md)            |
-| [Magazine](../magazine/magazine.md)                       |
-| [Sampark Kare](sampark.md)                                |
+![ISRAWG Logo](../israwg_logo.png)
+| [🏛️ Headquarters](../home.md) | [📚 Research Areas](research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](sampark.md) |
+| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
 
 ___
 
@@ -21,7 +17,7 @@ The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is dedica
 - Sri Lanka
 - Maldives
 - Myanmar
-- Afganisthan
+- Afghanistan
 - Pakistan
 
 The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is dedicated to conducting comprehensive research in various areas related to defense, security, and strategic studies within the Indian Subcontinent. Our research areas include, but are not limited to, the following:
@@ -40,15 +36,18 @@ The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is dedica
 
 7. **Emerging Technologies**: We investigate cutting-edge technologies, such as artificial intelligence, robotics, and space systems, and assess their implications for defense and security. Our research examines the opportunities and challenges presented by these technologies.
 
+8. **Intelligence Studies**: Delving into intelligence gathering and analysis to enhance our knowledge base and provide valuable context.
+
 Our team of dedicated researchers works diligently to provide valuable insights and analysis in these research areas. Through our research, we aim to contribute to the knowledge base and promote informed decision-making for a secure and stable Indian Subcontinent.
 
 ___
 
-| 📝 [About Us](about.md) | 📫 [Sampark Kare](sampark.md) | [© Copyright ™️ Trademark](copyright&trademark.md) | ℹ️  [Terms of Use](termsofuse.md) | 🔒 [Privacy Policy](privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../text_logo.png)
+📝 [About Us](about.md) | 📫 [Sampark Kare](sampark.md) | [© Copyright ™️ Trademark](copyright&trademark.md) |
+ℹ️ [Terms of Use](termsofuse.md) | 🔒 [Privacy Policy](privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
 
-    © 2023 ISRAWG™️. All rights reserved. 
-    Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISRAWG™️. All rights reserved.
+Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

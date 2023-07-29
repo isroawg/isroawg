@@ -1,13 +1,8 @@
 # **Privacy Policy**
 
-| ![ISRAWG Logo](../text_logo.png) |
-| :-------------------------------------------------:       |
-| [Home](../home.md)                                           |
-| [About](about.md)                                         |
-| [Research Areas](research.md)                             |
-| [Publications](../publication/publications.md)            |
-| [Magazine](../magazine/magazine.md)                       |
-| [Sampark Kare](sampark.md)                                |
+![ISRAWG Logo](../israwg_logo.png)
+| [🏛️ Headquarters](../home.md) | [📚 Research Areas](research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](sampark.md) |
+| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
 
 ___
 
@@ -33,11 +28,12 @@ For more detailed information about our privacy practices, or if you have any qu
 
 ___
 
-| 📝 [About Us](about.md) | 📫 [Sampark Kare](sampark.md) | [© Copyright ™️ Trademark](copyright&trademark.md) | ℹ️  [Terms of Use](termsofuse.md) | 🔒 [Privacy Policy](privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../text_logo.png)
+📝 [About Us](about.md) | 📫 [Sampark Kare](sampark.md) | [© Copyright ™️ Trademark](copyright&trademark.md) |
+ℹ️ [Terms of Use](termsofuse.md) | 🔒 [Privacy Policy](privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
 
-    © 2023 ISRAWG™️. All rights reserved. 
-    Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISRAWG™️. All rights reserved.
+Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

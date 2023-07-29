@@ -1,3 +1,5 @@
+# **Contribution Guideline for Publications**
+
 ## Guidelines for Publications - Indian Subcontinental Research & Analytical Working Group (ISRAWG)
 
 We deeply appreciate your interest in contributing to the esteemed publications of the Indian Subcontinental Research & Analytical Working Group (ISRAWG). Our commitment to journalistic excellence and research integrity drives us to maintain the highest standards across all our publications. To ensure the quality and relevance of our work while upholding the sanctity of national integrity, we have established the following comprehensive guidelines:

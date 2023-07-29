@@ -1,3 +1,5 @@
+# **Code of Conduct**
+
 ## Code of Conduct - Indian Subcontinental Research & Analytical Working Group (ISRAWG)
 
 We, at the Indian Subcontinental Research & Analytical Working Group (ISRAWG), are dedicated to upholding the highest standards of professionalism, integrity, and respect. As contributors and members of this esteemed community, we recognize the significance of the Indian nation's integrity, the supremacy of the Indian Constitution, the valor of the Indian Armed Forces, and the critical importance of Indian national security. In light of these values, we have established this Code of Conduct to guide our interactions and foster an environment of excellence and inclusivity.

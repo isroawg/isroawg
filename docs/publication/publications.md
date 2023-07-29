@@ -1,13 +1,8 @@
 # **Publications**
 
-| ![ISRAWG Logo](../text_logo.png) |
-| :-------------------------------------------------:       |
-| [Home](../home.md)                                        |
-| [About](../aboutus/about.md)                              |
-| [Research Areas](../aboutus/research.md)                  |
-| [Publications](publications.md)                           |
-| [Magazine](../magazine/magazine.md)                       |
-| [Sampark Kare](../aboutus/sampark.md)                     |
+![ISRAWG Logo](../israwg_logo.png)
+| [🏛️ Headquarters](../home.md) | [📚 Research Areas](../aboutus/research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](magazine.md) | [📮 Sampark Kare](../aboutus/sampark.md) |
+| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
 
 ___
 
@@ -17,57 +12,51 @@ Stay updated with the latest trends, challenges, and developments shaping the se
 
 ## ORBATs (Order of Battle) and TO&Es (Table of Organization and Equipment)
 
-### ORBATs (Order of Battle)
-
-1. [ORBAT of Srilanka Military](orbats/orbat_publication1.md)
-   - Summary: A brief overview of the publication's content and key findings.
-   - Author: [ Unit 24 ]
-   - Date: [ soon ]
-
-2. [ORBAT of Bangladesh Military](orbats/orbat_publication2.md)
-   - Summary: A brief overview of the publication's content and key findings.
-   - Author: [ Unit 24 ]
-   - Date: [ soon ]
-
-3. [ORBAT of Nepal Military](orbats/orbat_publication3.md)
-   - Summary: A brief overview of the publication's content and key findings.
-   - Author: [ Unit 24 ]
-   - Date: [ soon ]
-
-4. [ORBAT of Bhutan Military](orbats/orbat_publication4.md)
-   - Summary: A brief overview of the publication's content and key findings.
-   - Author: [ Unit 24 ]
-   - Date: [ soon ]
-
-5. [ORBAT of Maldives Military](orbats/orbat_publication5.md)
-   - Summary: A brief overview of the publication's content and key findings.
-   - Author: [ Unit 24 ]
-   - Date: [ soon ]
-
-### TO&Es (Table of Organization and Equipment)
-
-1. [TO&E of Srilanka Military](toes/toe_publication1.md)
-   - Summary: A brief overview of the publication's content and key findings.
+1. Srilanka
+   - Summary: A brief overview of Srilanka national security and military.
+   - ORBATs and TO&Es
    - Author: [ Section 20 ]
    - Date: [ soon ]
 
-2. [TO&E of Bangladesh Military](toes/toe_publication2.md)
-   - Summary: A brief overview of the publication's content and key findings.
+2. Bangladesh
+   - Summary: A brief overview of Bangladesh national security and military.
+   - ORBATs and TO&Es
    - Author: [ Section 20 ]
    - Date: [ soon ]
 
-3. [TO&E of Nepal Military](toes/toe_publication3.md)
-   - Summary: A brief overview of the publication's content and key findings.
+3. Nepal
+   - Summary: A brief overview of Nepal national security and military.
+   - ORBATs and TO&Es
    - Author: [ Section 20 ]
    - Date: [ soon ]
 
-4. [TO&E of Bhutan Military](toes/toe_publication4.md)
-   - Summary: A brief overview of the publication's content and key findings.
+4. Bhutan
+   - Summary: A brief overview of Bhutan national security and military.
+   - ORBATs and TO&Es
    - Author: [ Section 20 ]
    - Date: [ soon ]
 
-5. [TO&E of Maldives Military](toes/toe_publication5.md)
-   - Summary: A brief overview of the publication's content and key findings.
+5. Maldives
+   - Summary: A brief overview of Maldives national security and military.
+   - ORBATs and TO&Es
+   - Author: [ Section 20 ]
+   - Date: [ soon ]
+
+6. Myanmar
+   - Summary: A brief overview of Myanmar national security and military.
+   - ORBATs and TO&Es
+   - Author: [ Section 20 ]
+   - Date: [ soon ]
+
+7. Afghanistan
+   - Summary: A brief overview of Afghanistan national security and military.
+   - ORBATs and TO&Es
+   - Author: [ Section 20 ]
+   - Date: [ soon ]
+
+8. Pakistan
+   - Summary: A brief overview of Pakistan national security and military.
+   - ORBATs and TO&Es
    - Author: [ Section 20 ]
    - Date: [ soon ]
 
@@ -101,10 +90,12 @@ For submission guidelines, please refer to [Guidelines for Publications](guideli
 
 ___
 
-| 📝 [About Us](../aboutus/about.md) | 📫 [Sampark Kare](../aboutus/sampark.md) | [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) | ℹ️  [Terms of Use](../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../text_logo.png)
+📝 [About Us](../aboutus/about.md) | 📫 [Sampark Kare](../aboutus/sampark.md) | [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) |
+ℹ️ [Terms of Use](../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
 
-                        © 2023 ISRAWG™️. All rights reserved. 
-    Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISRAWG™️. All rights reserved.
+Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+
 ___

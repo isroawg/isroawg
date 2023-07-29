@@ -1,13 +1,8 @@
 # **Magazine Issues**
 
-| ![ISRAWG Logo](../text_logo.png) |
-| :-------------------------------------------------:       |
-| [Home](../home.md)                                        |
-| [About](../aboutus/about.md)                              |
-| [Research Areas](../aboutus/research.md)                  |
-| [Publications](../publication/publications.md)            |
-| [Magazine](magazine.md)                                   |
-| [Sampark Kare](../aboutus/sampark.md)                     |
+![ISRAWG Logo](../israwg_logo.png)
+| [🏛️ Headquarters](../home.md) | [📚 Research Areas](../aboutus/research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](magazine.md) | [📮 Sampark Kare](../aboutus/sampark.md) |
+| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
 
 ___
 
@@ -15,48 +10,93 @@ ___
 
 Welcome to the Magazine Issues page of the Indian Subcontinental Research & Analytical Working Group (ISRAWG). Here, you can explore our collection of magazine issues, each featuring a compilation of articles, analysis, and reports on various topics related to defense, security, and strategic studies within the Indian Subcontinent.
 
-### Issue
+## Volume 00
 
-0. [Issue 1: Indian National Security Architecture](issue1.md)
-   - The brief view of Indian National Security Architecture.
+Welcome to the Indian Subcontinental Research & Analytical Working Group (ISRAWG) - Volume 00!
 
-1. [Issue 2: Indian Ministry of Defence](issue2.md)
-   - The brief view of Indian Ministry of Defence.
+"Volume 00" of our publication series is dedicated to exploring the Republic of India's National Security, Defence Strategies, and Government Functional Areas related to central organizations. This special edition serves as an introductory volume, providing a comprehensive and in-depth analysis of how India's central government handles national security challenges, formulates defense strategies, and coordinates functional areas crucial to governance.
 
-2. [Issue 3: Indian Security Forces](issue3.md)
-   - The brief view of Indian Security Forces.
+Within this volume, we delve into the policies, decision-making processes, and strategic initiatives adopted by the central organizations to ensure the security and well-being of the nation. It offers valuable insights into how various governmental functions collaborate to safeguard the Republic of India's interests, both domestically and internationally.
 
-3. [Issue 4: Indian Army](issue4.md)
-   - The brief view of Indian Army.
+Through case studies, analyses, and research, "Volume 00" sets the foundation for subsequent volumes, which will further explore critical topics within the realm of India's national security and defense. Our aim is to provide an authoritative resource that fosters a better understanding of India's security landscape, and contributes to informed discussions and policymaking.
 
-4. [Issue 5: Indian Navy](issue5.md)
-   - The brief view of Indian Navy.
+As an introductory volume, it serves as a gateway to a series of comprehensive and detailed investigations in subsequent volumes, allowing readers to gain profound insights into the intricacies of India's national security and defense strategies.
 
-5. [Issue 6: Indian Air-Force](issue6.md)
-   - The brief view of Indian Air-Force.
+### **Welcome to Volume 00 - Indian National Security and Defence Overview**
 
-6. [Issue 7: Indian Central Armed Police Forces](issue7.md)
-   - The brief view of Indian Central Armed Police Forces (CAPF).
+With these 13 issues, we aim to provide a comprehensive understanding of India's security landscape and its strategic efforts to safeguard the nation's interests. Each issue delves into specific aspects, offering valuable insights and analysis to policymakers, researchers, and readers interested in India's national security and defence matters.
 
-7. [Issue 8: Indian Intelligence Community](issue8.md)
-   - The brief view of Indian Intelligence Community (IC).
+0. **Issue 0: Introduction and Overview**
 
-8. [Issue 9: Indian Investigation Community](issue9.md)
-   - The brief view of Indian Investigation Community.
+   - Introduction and Overview of Republic of India.
 
-9. [Issue 10: Indian Law Enforcement Community](issue10.md)
-   - The brief view of Indian Law Enforcement Community.
+1. **Issue 1: Indian National Security Architecture**
 
-Feel free to click on the issue titles to explore the contents of each magazine issue.
+   - An overview of India's National Security Architecture, Apparatus, and encompassing key institutions and strategies.
+
+2. **Issue 2: Indian Ministry of Defence**
+
+   - A comprehensive view of the Indian Ministry of Defence and its role in safeguarding the nation.
+
+3. **Issue 3: Indian Security Forces**
+
+   - A closer look at the various branches of India's Security Forces and their contributions to national security.
+
+4. **Issue 4: Indian Army**
+
+   - Exploring the Indian Army's vital role as the land-based defence force of the nation.
+
+5. **Issue 5: Indian Navy**
+
+   - Unveiling the capabilities and importance of the Indian Navy in maritime security.
+
+6. **Issue 6: Indian Air Force**
+
+   - A detailed overview of the Indian Air Force's role in aerial defence and operations.
+
+7. **Issue 7: Indian Coast Guard**
+
+   - Understanding the critical missions and responsibilities of the Indian Coast Guard.
+
+8. **Issue 8: Indian Central Armed Police Forces (CAPF)**
+
+   - Examining the role of CAPF in maintaining internal security and law enforcement.
+
+9. **Issue 9: Indian Intelligence Community (IC)**
+
+   - Shedding light on the functioning and significance of India's Intelligence Community.
+
+10. **Issue 10: Indian Investigation Community**
+
+      - Investigating the various agencies involved in criminal investigation and counter-terrorism efforts.
+
+11. **Issue 11: Indian Law Enforcement Community**
+
+      - Delving into the diverse law enforcement agencies ensuring public safety and order.
+
+12. **Issue 12: Indian Cabinet Ministries**
+
+      - An overview of key Cabinet Ministries influencing defence and security policies.
+
+13. **Issue 13: Indian Civil Organizations**
+
+      - Understanding the contributions of civil organizations to national security and governance.
+
+This special volume presents a comprehensive exploration of India's national security and defence landscape. Each issue provides valuable insights into the structures, functions, and strategic roles of key entities dedicated to safeguarding the Republic of India. Join us in this journey of understanding and knowledge as we delve into the intricacies of India's security apparatus.
 
 Stay informed and delve into the in-depth analysis and insights presented in our magazine issues.
 
+Thank you for joining us in this exploration of India's security challenges and strategies. We look forward to engaging in informed discussions and contributing to the discourse on national security in the Indian Subcontinent.
+
+Jai Hind
 ___
 
-| 📝 [About Us](../aboutus/about.md) | 📫 [Sampark Kare](../aboutus/sampark.md) | [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) | ℹ️  [Terms of Use](../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../text_logo.png)
+📝 [About Us](../aboutus/about.md) | 📫 [Sampark Kare](../aboutus/sampark.md) | [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) |
+ℹ️ [Terms of Use](../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
 
-                        © 2023 ISRAWG™️. All rights reserved. 
-    Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISRAWG™️. All rights reserved.
+Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+
 ___
