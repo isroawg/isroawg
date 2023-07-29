@@ -1,8 +1,10 @@
 # **Copyright and Trademark**
 
 ![ISRAWG Logo](../israwg_logo.png)
+
 | [🏛️ Headquarters](../home.md) | [📚 Research Areas](research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](sampark.md) |
-| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
+| :-----------------------: | :-------------------------------: | :-------------------------: | :---------------------: | :---------------------------------: |
+
 ___
 
 ## ™️ Trademark
@@ -27,12 +29,13 @@ Please note that while the content on this website is open-source information, i
 
 For inquiries regarding the use of the content, logo, or any other materials from this website, or to seek permission for any specific usage, please [sampark kare !.](sampark.md)
 
+Jai Hind
+
 ___
 
 ![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
 
-📝 [About Us](about.md) | 📫 [Sampark Kare](sampark.md) | [© Copyright ™️ Trademark](copyright&trademark.md) |
-ℹ️ [Terms of Use](termsofuse.md) | 🔒 [Privacy Policy](privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
 
 © 2023 ISRAWG™️. All rights reserved.
 Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.

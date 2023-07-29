@@ -1,8 +1,9 @@
 # **Publications**
 
 ![ISRAWG Logo](../israwg_logo.png)
+
 | [🏛️ Headquarters](../home.md) | [📚 Research Areas](../aboutus/research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](magazine.md) | [📮 Sampark Kare](../aboutus/sampark.md) |
-| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
+| :-----------------------: | :-------------------------------: | :-------------------------: | :---------------------: | :---------------------------------: |
 
 ___
 
@@ -21,7 +22,7 @@ Stay updated with the latest trends, challenges, and developments shaping the se
 2. Bangladesh
    - Summary: A brief overview of Bangladesh national security and military.
    - ORBATs and TO&Es
-   - Author: [ Section 20 ]
+   - Author: [ Unit 24 ]
    - Date: [ soon ]
 
 3. Nepal
@@ -45,19 +46,19 @@ Stay updated with the latest trends, challenges, and developments shaping the se
 6. Myanmar
    - Summary: A brief overview of Myanmar national security and military.
    - ORBATs and TO&Es
-   - Author: [ Section 20 ]
+   - Author: [ Unit 24 ]
    - Date: [ soon ]
 
 7. Afghanistan
    - Summary: A brief overview of Afghanistan national security and military.
    - ORBATs and TO&Es
-   - Author: [ Section 20 ]
+   - Author: [ Unit 24 ]
    - Date: [ soon ]
 
 8. Pakistan
    - Summary: A brief overview of Pakistan national security and military.
    - ORBATs and TO&Es
-   - Author: [ Section 20 ]
+   - Author: [ Unit 24 ]
    - Date: [ soon ]
 
 ## Future Publications
@@ -88,12 +89,13 @@ Join us in shaping the future of research and analysis in this vital field, and 
 
 For submission guidelines, please refer to [Guidelines for Publications](guideline.md) section.
 
+Jai Hind
+
 ___
 
 ![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
 
-📝 [About Us](../aboutus/about.md) | 📫 [Sampark Kare](../aboutus/sampark.md) | [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) |
-ℹ️ [Terms of Use](../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+📝 [About Us](../aboutus/about.md) 📫 [Sampark Kare](../aboutus/sampark.md) [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) ℹ️ [Terms of Use](../aboutus/termsofuse.md) 🔒 [Privacy Policy](../aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
 
 © 2023 ISRAWG™️. All rights reserved.
 Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.

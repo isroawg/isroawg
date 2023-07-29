@@ -1,8 +1,9 @@
 # **Research Areas**
 
 ![ISRAWG Logo](../israwg_logo.png)
+
 | [🏛️ Headquarters](../home.md) | [📚 Research Areas](research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](sampark.md) |
-| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
+| :-----------------------: | :-------------------------------: | :-------------------------: | :---------------------: | :---------------------------------: |
 
 ___
 
@@ -40,12 +41,13 @@ The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is dedica
 
 Our team of dedicated researchers works diligently to provide valuable insights and analysis in these research areas. Through our research, we aim to contribute to the knowledge base and promote informed decision-making for a secure and stable Indian Subcontinent.
 
+Jai Hind
+
 ___
 
 ![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
 
-📝 [About Us](about.md) | 📫 [Sampark Kare](sampark.md) | [© Copyright ™️ Trademark](copyright&trademark.md) |
-ℹ️ [Terms of Use](termsofuse.md) | 🔒 [Privacy Policy](privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
 
 © 2023 ISRAWG™️. All rights reserved.
 Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.

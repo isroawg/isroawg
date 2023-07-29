@@ -1,8 +1,9 @@
 # **Table of Organization and Equipment (TO&E)**
 
 ![ISRAWG Logo](../../israwg_logo.png)
+
 | [🏛️ Headquarters](../../home.md) | [📚 Research Areas](../../aboutus/research.md) | [📝 Publications](../../publication/publications.md) | [📰 Magazine](../../magazine/magazine.md) | [📮 Sampark Kare](../../aboutus/sampark.md) |
-| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
+| :-----------------------: | :-------------------------------: | :-------------------------: | :---------------------: | :---------------------------------: |
 
 ___
 
@@ -35,12 +36,13 @@ In contemporary military operations, digital TO&Es have become more prevalent, o
 
 Standardized TO&Es are essential for facilitating joint and combined operations, ensuring seamless coordination between different military branches and allied forces. By adhering to these standards, military planners and strategists can optimize the effectiveness of their forces and enhance overall operational capabilities.
 
+Jai Hind
+
 ___
 
 ![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../../israwg_logo.png)
 
-📝 [About Us](../../aboutus/about.md) | 📫 [Sampark Kare](../../aboutus/sampark.md) | [© Copyright ™️ Trademark](../../aboutus/copyright&trademark.md) |
-ℹ️ [Terms of Use](../../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+📝 [About Us](../../aboutus/about.md) 📫 [Sampark Kare](../../aboutus/sampark.md) [© Copyright ™️ Trademark](../../aboutus/copyright&trademark.md) ℹ️ [Terms of Use](../../aboutus/termsofuse.md) 🔒 [Privacy Policy](../../aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
 
 © 2023 ISRAWG™️. All rights reserved.
 Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.

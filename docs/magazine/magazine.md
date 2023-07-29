@@ -1,8 +1,9 @@
 # **Magazine Issues**
 
 ![ISRAWG Logo](../israwg_logo.png)
+
 | [🏛️ Headquarters](../home.md) | [📚 Research Areas](../aboutus/research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](magazine.md) | [📮 Sampark Kare](../aboutus/sampark.md) |
-| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
+| :-----------------------: | :-------------------------------: | :-------------------------: | :---------------------: | :---------------------------------: |
 
 ___
 
@@ -89,12 +90,12 @@ Stay informed and delve into the in-depth analysis and insights presented in our
 Thank you for joining us in this exploration of India's security challenges and strategies. We look forward to engaging in informed discussions and contributing to the discourse on national security in the Indian Subcontinent.
 
 Jai Hind
+
 ___
 
 ![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
 
-📝 [About Us](../aboutus/about.md) | 📫 [Sampark Kare](../aboutus/sampark.md) | [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) |
-ℹ️ [Terms of Use](../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+📝 [About Us](../aboutus/about.md) 📫 [Sampark Kare](../aboutus/sampark.md) [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) ℹ️ [Terms of Use](../aboutus/termsofuse.md) 🔒 [Privacy Policy](../aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
 
 © 2023 ISRAWG™️. All rights reserved.
 Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.

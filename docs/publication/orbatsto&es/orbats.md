@@ -1,8 +1,9 @@
 # **Order of Battle (ORBAT) and Table of Organization and Equipment (TO&E)**
 
 ![ISRAWG Logo](../../israwg_logo.png)
+
 | [🏛️ Headquarters](../../home.md) | [📚 Research Areas](../../aboutus/research.md) | [📝 Publications](../../publication/publications.md) | [📰 Magazine](../../magazine/magazine.md) | [📮 Sampark Kare](../../aboutus/sampark.md) |
-| :-------------: | :--------------: | :-------------: | :---------: | :-----------------------------------: |
+| :-----------------------: | :-------------------------------: | :-------------------------: | :---------------------: | :---------------------------------: |
 
 ___
 
@@ -38,12 +39,13 @@ Proper utilization of ORBATs is a fundamental aspect of modern military planning
 
 In contemporary military engagements, ORBATs have become digital and dynamic, allowing for real-time updates and adaptability on the battlefield. These digital ORBATs enhance situational awareness and decision-making, empowering military leaders to respond swiftly and effectively to changing circumstances.
 
+Jai Hind
+
 ___
 
 ![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../../israwg_logo.png)
 
-📝 [About Us](../../aboutus/about.md) | 📫 [Sampark Kare](../../aboutus/sampark.md) | [© Copyright ™️ Trademark](../../aboutus/copyright&trademark.md) |
-ℹ️ [Terms of Use](../../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/israwg_) |
+📝 [About Us](../../aboutus/about.md) 📫 [Sampark Kare](../../aboutus/sampark.md) [© Copyright ™️ Trademark](../../aboutus/copyright&trademark.md) ℹ️ [Terms of Use](../../aboutus/termsofuse.md) 🔒 [Privacy Policy](../../aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
 
 © 2023 ISRAWG™️. All rights reserved.
 Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
