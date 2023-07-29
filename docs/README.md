@@ -1,7 +1,3 @@
----
-permalink: /home.md
----
-
 # **Indian Subcontinental Research & Analytical Working Group (ISRAWG)**
 
 [🏛️ Headquarters](home.md) | [📚 Research Areas](aboutus/research.md) | [📝 Publications](publication/publications.md) | [📰 Magazine](magazine/magazine.md) |  [📮 Sampark Kare](aboutus/sampark.md)
