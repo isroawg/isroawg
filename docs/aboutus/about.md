@@ -4,7 +4,7 @@
 
 ___
 
-The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is a dedicated research organization brigade associated with the bhratrutva Group. Our main focus is on research and analysis related to international conflicts, national security, military movements, defense studies, and strategies. We are dedicated to enhancing the defense and security landscape of the Indian Subcontinent.
+The Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is a dedicated research organization brigade associated with the bhratrutva Group. Our main focus is on research and analysis related to international conflicts, national security, military movements, defense studies, and strategies. We are dedicated to enhancing the defense and security landscape of the Indian Subcontinent.
 
 ___
 
@@ -18,13 +18,13 @@ ___
 
 ## **Vision**
 
-The vision of the Indian Subcontinental Research & Analytical Working Group (ISRAWG) is to be a prominent and unbiased research forum dedicated to fostering peace, prosperity, national security, and the realization of Akhand Bharat in the Indian Subcontinent. Drawing inspiration from the ancient Indian warfare methodologies, including the Arthashastra, as well as the concept of Akhand Bharat, we strive to explore cultural, historical, and strategic dimensions that can contribute to regional harmony and cooperation.
+The vision of the Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is to be a prominent and unbiased research forum dedicated to fostering peace, prosperity, national security, and the realization of Akhand Bharat in the Indian Subcontinent. Drawing inspiration from the ancient Indian warfare methodologies, including the Arthashastra, as well as the concept of Akhand Bharat, we strive to explore cultural, historical, and strategic dimensions that can contribute to regional harmony and cooperation.
 
 We envision a region where nations collaborate, grow together, and address shared challenges through well-informed research, strategic analysis, and the preservation of historical wisdom. By embracing the principles of Akhand Bharat and the strategic insights from the Arthashastra, which seek to unite the Indian subcontinent beyond political boundaries, we aim to promote inclusive development, mutual respect, and enhanced regional connectivity.
 
 ## **Mission**
 
-Our mission at ISRAWG is to conduct in-depth research and analysis on the political, economic, social, and security dynamics of the Indian Subcontinent. By providing evidence-based insights and policy recommendations, we aim to contribute to regional development, promote sustainable practices, enhance national security cooperation, and foster better understanding among nations.
+Our mission at ISROAWG is to conduct in-depth research and analysis on the political, economic, social, and security dynamics of the Indian Subcontinent. By providing evidence-based insights and policy recommendations, we aim to contribute to regional development, promote sustainable practices, enhance national security cooperation, and foster better understanding among nations.
 
 With a special emphasis on the concept of Akhand Bharat and the strategic wisdom found in the Arthashastra, we seek to explore the historical, cultural, and strategic linkages that have shaped the region's identity and can serve as a foundation for stronger regional cooperation. By understanding the historical context and contemporary implications of these principles, we strive to identify pathways to peace, stability, and an integrated Indian subcontinent.
 
@@ -77,11 +77,11 @@ Jai Hind
 
 ___
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
+![Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)](../israwg_logo.png)
 
-📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
+📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
 
-© 2023 ISRAWG™️. All rights reserved.
-Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISROAWG™️. All rights reserved.
+Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

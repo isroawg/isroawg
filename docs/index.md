@@ -1,4 +1,4 @@
-# **Indian Subcontinental Research & Analytical Working Group (ISRAWG)**
+# **Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)**
 
 [🏛️ Headquarters](home.md) | [📚 Research Areas](aboutus/research.md) | [📝 Publications](publication/publications.md) | [📰 Magazine](magazine/magazine.md) |  [📮 Sampark Kare](aboutus/sampark.md)
 
@@ -6,17 +6,17 @@ ___
 
 ## **नमस्ते 🙏 🇮🇳**
 
-भारतीय उपमहाद्वीप अनुसंधान और विश्लेषणात्मक कार्य समूह (ISRAWG) में आपका स्वागत है, यह मुख्य रूप से भ्रातृत्व समूह का नीति अनुसंधान और विश्लेषण संगठन ब्रिगेड है.
+भारतीय उपमहाद्वीप अनुसंधान एवं परिचालनात्मक विश्लेषण कार्य समूह (ISROAWG) में आपका स्वागत है, यह मुख्य रूप से भ्रातृत्व समूह का नीति अनुसंधान और विश्लेषण संगठन ब्रिगेड है.
 
-Bhaarateey Upamahaadveep Anusandhaan evan Vishleshanaatmak Kaary Samooh (ISRAWG) mein aapaka svaagat hai, jo ki mukhy roop se bhraatrtv samooh ka neeti anusandhaan aur vishleshan sangathan briged hai..
+Bhāratīya Upmahādvīp Anusandhān evam Parichālanātmak Vishleṣaṇ Kārya Samūh (ISROAWG) mein aapaka svaagat hai, jo ki mukhy roop se bhraatrtv samooh ka neeti anusandhaan aur vishleshan sangathan briged hai..
 
-Welcome to The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is primarily policy research and analysis organization brigade of bhrAtRutva™️ group.
+Welcome to The Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is primarily policy research and analysis organization brigade of bhrAtRutva™️ group.
 
-The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is a dedicated research organization analyzing critical issues in national security, defense strategies, and military movements within the Indian Subcontinent. Through comprehensive studies and expert analysis, ISRAWG aims to enhance regional stability and foster collaborative security efforts for peace and prosperity.
+The Indian Subcontinental Research & Analytical Working Group (ISROAWG) is a dedicated research organization analyzing critical issues in national security, defense strategies, and military movements within the Indian Subcontinent. Through comprehensive studies and expert analysis, ISROAWG aims to enhance regional stability and foster collaborative security efforts for peace and prosperity.
 
-## [About ISRAWG](aboutus/about.md)
+## [About ISROAWG](aboutus/about.md)
 
-At ISRAWG, we strive to provide valuable insights and strategic recommendations to address the complex challenges faced by the Indian Subcontinent. Our team of researchers and analysts work diligently to analyze international conflicts, national security issues, military movements, defense strategies, and more.
+At ISROAWG, we strive to provide valuable insights and strategic recommendations to address the complex challenges faced by the Indian Subcontinent. Our team of researchers and analysts work diligently to analyze international conflicts, national security issues, military movements, defense strategies, and more.
 
 ## [Research Areas](aboutus/research.md)
 
@@ -54,17 +54,17 @@ Stay tuned for regular updates and new releases in our Magazine section!
 
 We welcome collaboration and engagement with individuals and organizations who share our passion for defense and security research. Please visit our [Sampark kare](aboutus/sampark.md) page to explore the different ways to get in touch with us.
 
-Thank you for visiting ISRAWG. We invite you to explore our website and access our valuable resources to expand your knowledge and understanding of the defense and security landscape in the Indian Subcontinent.
+Thank you for visiting ISROAWG. We invite you to explore our website and access our valuable resources to expand your knowledge and understanding of the defense and security landscape in the Indian Subcontinent.
 
 Jai Hind
 
 ___
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](israwg_logo.png)
+![Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)](israwg_logo.png)
 
-📝 [About Us](aboutus/about.md) 📫 [Sampark Kare](aboutus/sampark.md) [© Copyright ™️ Trademark](aboutus/copyright&trademark.md) ℹ️ [Terms of Use](aboutus/termsofuse.md) 🔒 [Privacy Policy](aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
+📝 [About Us](aboutus/about.md) 📫 [Sampark Kare](aboutus/sampark.md) [© Copyright ™️ Trademark](aboutus/copyright&trademark.md) ℹ️ [Terms of Use](aboutus/termsofuse.md) 🔒 [Privacy Policy](aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
 
-© 2023 ISRAWG™️. All rights reserved.
-Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISROAWG™️. All rights reserved.
+Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

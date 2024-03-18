@@ -4,9 +4,9 @@
 
 ___
 
-The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is primarily ThinkTank bridage of bhratrutva group.
+The Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is primarily ThinkTank bridage of bhratrutva group.
 
-Thank you for your interest in contacting the Indian Subcontinental Research & Analytical Working Group (ISRAWG). To get in touch with us, please use one of the following secure communication methods:
+Thank you for your interest in contacting the Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG). To get in touch with us, please use one of the following secure communication methods:
 
 - **Slack Workspace**: For real-time communication and collaboration, 💬 join our Slack workspace by requesting invite using email to us at [israwg@protonmail.com](mailto:israwg@protonmail.com).
 
@@ -24,21 +24,21 @@ Thank you for your interest in contacting the Indian Subcontinental Research & A
 
 Please note the following:
 
-- **Confidentiality:** All communication with ISRAWG is treated with the utmost confidentiality and discretion. Please avoid sharing unnecessary personally identifiable information.
+- **Confidentiality:** All communication with ISROAWG is treated with the utmost confidentiality and discretion. Please avoid sharing unnecessary personally identifiable information.
 
 - **Legal and Ethical Boundaries:** We strictly adhere to legal and ethical boundaries in our operations and expect the same level of professionalism from our collaborators and contacts.
 
-Thank you for your interest in ISRAWG. We look forward to potential collaborations and meaningful contributions to the defense and security landscape of the Indian Subcontinent.
+Thank you for your interest in ISROAWG. We look forward to potential collaborations and meaningful contributions to the defense and security landscape of the Indian Subcontinent.
 
 Jai Hind
 
 ___
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
+![Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)](../israwg_logo.png)
 
-📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
+📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
 
-© 2023 ISRAWG™️. All rights reserved.
-Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISROAWG™️. All rights reserved.
+Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

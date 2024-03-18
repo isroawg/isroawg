@@ -6,7 +6,7 @@ ___
 
 ## Guidelines for Publications
 
-We appreciate your interest in contributing to the publications of the Indian Subcontinental Research & Analytical Working Group (ISRAWG). To ensure consistency and quality across our publications, we have established the following guidelines:
+We appreciate your interest in contributing to the publications of the Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG). To ensure consistency and quality across our publications, we have established the following guidelines:
 
 1. **Relevance**: Submissions should be relevant to the scope of our research areas, including international conflicts, national security, military movements, defense studies, and strategies within the Indian Subcontinent.
 
@@ -28,17 +28,17 @@ Please note that all submitted publications will undergo a review process by our
 
 For inquiries and submissions, please contact our editorial team at [sampark kare!](../aboutus/sampark.md)
 
-Thank you for considering ISRAWG for your publication. We look forward to receiving your insightful contributions.
+Thank you for considering ISROAWG for your publication. We look forward to receiving your insightful contributions.
 
 Jai Hind
 
 ___
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
+![Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)](../israwg_logo.png)
 
-📝 [About Us](../aboutus/about.md) 📫 [Sampark Kare](../aboutus/sampark.md) [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) ℹ️ [Terms of Use](../aboutus/termsofuse.md) 🔒 [Privacy Policy](../aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
+📝 [About Us](../aboutus/about.md) 📫 [Sampark Kare](../aboutus/sampark.md) [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) ℹ️ [Terms of Use](../aboutus/termsofuse.md) 🔒 [Privacy Policy](../aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
 
-© 2023 ISRAWG™️. All rights reserved.
-Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISROAWG™️. All rights reserved.
+Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

@@ -6,7 +6,7 @@ ___
 
 ## ™️ Trademark
 
-"ISRAWG" and "Indian Subcontinental Research & Analytical Working Group" are registered trademarks of bhrAtRutva Group. Any unauthorized use of these trademarks is strictly prohibited.
+"ISROAWG" and "Indian Subcontinental Research & Operational Analytical Working Group" are registered trademarks of bhrAtRutva Group. Any unauthorized use of these trademarks is strictly prohibited.
 
 ## ©️ Copyright
 
@@ -14,7 +14,7 @@ The content, logo, and associated materials on this website are the intellectual
 
 You are welcome to use the information and content provided on this website under the following conditions:
 
-1. You must provide direct reference to "Indian Subcontinental Research & Analytical Working Group (ISRAWG)" and use the abbreviation "ISRAWG" with a hyperlink to the [official website](https://israwg.github.io) as the source of information.
+1. You must provide direct reference to "Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)" and use the abbreviation "ISROAWG" with a hyperlink to the [official website](ISRAWG.IN) as the source of information.
 
 2. Use of the content must be for non-commercial and educational purposes only. Commercial use is strictly prohibited without explicit written permission from bhrAtRutva Group.
 
@@ -30,11 +30,11 @@ Jai Hind
 
 ___
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
+![Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)](../israwg_logo.png)
 
-📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
+📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
 
-© 2023 ISRAWG™️. All rights reserved.
-Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISROAWG™️. All rights reserved.
+Indian Subcontinental Research & Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

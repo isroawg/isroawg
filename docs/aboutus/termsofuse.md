@@ -4,27 +4,27 @@
 
 ___
 
-By accessing and using the Indian Subcontinental Research & Analytical Working Group (ISRAWG) website, you agree to comply with these Terms of Use. If you do not agree with any of these terms, please refrain from using this website.
+By accessing and using the Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) website, you agree to comply with these Terms of Use. If you do not agree with any of these terms, please refrain from using this website.
 
 ## Content Usage
 
 1. The content provided on this website is for informational and educational purposes only. It does not constitute professional advice or recommendations.
 
-2. You may not reproduce, distribute, modify, or use any content from this website without explicit permission from ISRAWG or the respective content owners, where applicable.
+2. You may not reproduce, distribute, modify, or use any content from this website without explicit permission from ISROAWG or the respective content owners, where applicable.
 
 3. Any unauthorized use of the content on this website may violate copyright, trademark, and other applicable laws.
 
 ### Disclaimer
 
-1. ISRAWG strives to provide accurate and up-to-date information. However, we do not guarantee the accuracy, completeness, or reliability of the content on this website.
+1. ISROAWG strives to provide accurate and up-to-date information. However, we do not guarantee the accuracy, completeness, or reliability of the content on this website.
 
-2. The information provided on this website is subject to change without notice. ISRAWG reserves the right to update, modify, or remove any content without prior notice.
+2. The information provided on this website is subject to change without notice. ISROAWG reserves the right to update, modify, or remove any content without prior notice.
 
-3. The views and opinions expressed in the publications, articles, and analysis on this website belong to the respective authors and do not necessarily reflect the views of ISRAWG or its affiliates.
+3. The views and opinions expressed in the publications, articles, and analysis on this website belong to the respective authors and do not necessarily reflect the views of ISROAWG or its affiliates.
 
 ### External Links
 
-1. This website may contain links to external websites for additional information. ISRAWG is not responsible for the content, accuracy, or availability of these external websites.
+1. This website may contain links to external websites for additional information. ISROAWG is not responsible for the content, accuracy, or availability of these external websites.
 
 2. The inclusion of external links on this website does not imply endorsement or affiliation with the linked websites.
 
@@ -42,11 +42,11 @@ Jai Hind
 
 ___
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
+![Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)](../israwg_logo.png)
 
-📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
+📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
 
-© 2023 ISRAWG™️. All rights reserved.
-Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISROAWG™️. All rights reserved.
+Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

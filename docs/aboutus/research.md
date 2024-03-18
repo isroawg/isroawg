@@ -6,7 +6,7 @@ ___
 
 ## Research Areas
 
-The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is dedicated to conducting in-depth research on the following countries within the Indian Subcontinent:
+The Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is dedicated to conducting in-depth research on the following countries within the Indian Subcontinent:
 
 - India
 - Bangladesh
@@ -18,7 +18,7 @@ The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is dedica
 - Afghanistan
 - Pakistan
 
-The Indian Subcontinental Research & Analytical Working Group (ISRAWG) is dedicated to conducting comprehensive research in various areas related to defense, security, and strategic studies within the Indian Subcontinent. Our research areas include, but are not limited to, the following:
+The Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is dedicated to conducting comprehensive research in various areas related to defense, security, and strategic studies within the Indian Subcontinent. Our research areas include, but are not limited to, the following:
 
 1. **International Conflicts**: We examine global conflicts, their causes, dynamics, and potential resolutions. Our research aims to provide insights into conflict management, peacekeeping efforts, and international cooperation.
 
@@ -42,11 +42,11 @@ Jai Hind
 
 ___
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
+![Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)](../israwg_logo.png)
 
-📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
+📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
 
-© 2023 ISRAWG™️. All rights reserved.
-Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISROAWG™️. All rights reserved.
+Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___

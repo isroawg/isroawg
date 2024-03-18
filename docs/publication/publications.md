@@ -74,7 +74,7 @@ Stay tuned for more thought-provoking publications in the future, as we strive t
 
 We value contributions from researchers, experts, and scholars who share our commitment to advancing knowledge in the field of national security, military movements, defense strategies, and related areas within the Indian Subcontinental region.
 
-For those interested in submitting their work to ISRAWG, we have established clear and comprehensive submission guidelines. These guidelines are designed to ensure the quality, credibility, and relevance of the content we publish. Authors are encouraged to provide original research, supported by verifiable and credible sources.
+For those interested in submitting their work to ISROAWG, we have established clear and comprehensive submission guidelines. These guidelines are designed to ensure the quality, credibility, and relevance of the content we publish. Authors are encouraged to provide original research, supported by verifiable and credible sources.
 
 We welcome articles, research papers, and analyses that offer fresh insights and unique perspectives on the security dynamics of the Indian Subcontinental region. Submissions should adhere to a standard format, including key sections like the abstract, introduction, methodology, results, discussion, conclusion, and references.
 
@@ -82,7 +82,7 @@ Our editorial team meticulously reviews each submission, providing valuable feed
 
 As our mission is to foster a deeper understanding of security challenges and geopolitical trends, we encourage authors to explore emerging issues and contribute to the ongoing dialogue on critical topics. By sharing your expertise, you become an integral part of our endeavor to create a well-informed community dedicated to addressing security challenges in the Indian Subcontinental context.
 
-Join us in shaping the future of research and analysis in this vital field, and submit your work to ISRAWG.
+Join us in shaping the future of research and analysis in this vital field, and submit your work to ISROAWG.
 
 For submission guidelines, please refer to [Guidelines for Publications](guideline.md) section.
 
@@ -90,11 +90,11 @@ Jai Hind
 
 ___
 
-![Indian Subcontinental Research & Analytical Working Group (ISRAWG)](../israwg_logo.png)
+![Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)](../israwg_logo.png)
 
-📝 [About Us](../aboutus/about.md) 📫 [Sampark Kare](../aboutus/sampark.md) [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) ℹ️ [Terms of Use](../aboutus/termsofuse.md) 🔒 [Privacy Policy](../aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/israwg_)
+📝 [About Us](../aboutus/about.md) 📫 [Sampark Kare](../aboutus/sampark.md) [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) ℹ️ [Terms of Use](../aboutus/termsofuse.md) 🔒 [Privacy Policy](../aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
 
-© 2023 ISRAWG™️. All rights reserved.
-Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISROAWG™️. All rights reserved.
+Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___
