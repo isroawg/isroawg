@@ -1,6 +1,10 @@
 # **Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)**
 
+<div align="center" style="font-weight: bold; font-size: larger; color: #0000ff;">
+
 [🏛️ Headquarters](docs/home.md) [📚 Research Areas](docs/aboutus/research.md) [📝 Publications](docs/publication/publications.md) | [📰 Magazine](docs/magazine/magazine.md) | [📮 Sampark Kare](doc/aboutus/sampark.md)
+
+</div>
 
 ___
 
@@ -18,11 +22,13 @@ Jai Hind
 
 ___
 
-![Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)](docs/israwg_logo.png)
+<div align="center" style="font-weight: bold; font-size: larger;">
 
 📝 [About Us](docs/aboutus/about.md) 📫 [Sampark Kare](docs/aboutus/sampark.md) [© Copyright ™️ Trademark](docs/aboutus/copyright&trademark.md) ℹ️ [Terms of Use](docs/aboutus/termsofuse.md) 🔒 [Privacy Policy](docs/aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
 
 © 2023 ISROAWG™️. All rights reserved.
 Indian Subcontinental Research & Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+
+</div>
 
 ___
