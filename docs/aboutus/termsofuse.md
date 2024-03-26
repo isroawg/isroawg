@@ -1,10 +1,6 @@
 # **Terms of Use**
 
-<div align="center" style="font-weight: bold; font-size: larger; color: #0000ff;">
-
-[🏛️ Headquarters](../home.md) | [📚 Research Areas](research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](sampark.md)
-
-</div>
+| [🏛️ Headquarters](../home.md) | [📚 Research Areas](research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](sampark.md) |
 
 ___
 
@@ -34,25 +30,23 @@ By accessing and using the Indian Subcontinental Research & Operational Analytic
 
 ### Limitation of Liability
 
-1. ISRAWG and its affiliates shall not be liable for any direct, indirect, incidental, consequential, or special damages arising from the use or inability to use this website.
+1. ISROAWG and its affiliates shall not be liable for any direct, indirect, incidental, consequential, or special damages arising from the use or inability to use this website.
 
-2. You agree to use this website at your own risk. ISRAWG shall not be held responsible for any loss, damage, or harm resulting from your use of this website.
+2. You agree to use this website at your own risk. ISROAWG shall not be held responsible for any loss, damage, or harm resulting from your use of this website.
 
 ### Changes to the Terms of Use
 
-ISRAWG reserves the right to update or modify these Terms of Use at any time without prior notice. It is your responsibility to review these terms periodically to stay informed about any changes.
+ISROAWG reserves the right to update or modify these Terms of Use at any time without prior notice. It is your responsibility to review these terms periodically to stay informed about any changes.
 
 Jai Hind
 
 ___
 
-<div align="center" style="font-weight: bold; font-size: larger;">
 
-📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
+| 📝 [About Us](about.md) | 📫 [Sampark Kare](sampark.md) | [© Copyright ™️ Trademark](copyright&trademark.md) | ℹ️ [Terms of Use](termsofuse.md) | 🔒 [Privacy Policy](privacy&policy.md) | 🐦 [Twitter](https://twitter.com/ISROAWG) |
 
 © 2023 ISROAWG™️. All rights reserved.
 Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
-</div>
 
 ___

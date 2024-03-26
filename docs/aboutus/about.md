@@ -1,10 +1,6 @@
 # **About**
 
-<div align="center" style="font-weight: bold; font-size: larger; color: #0000ff;">
-
-[🏛️ Headquarters](../home.md) | [📚 Research Areas](research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](sampark.md)
-
-</div>
+| [🏛️ Headquarters](../home.md) | [📚 Research Areas](research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](sampark.md) |
 
 ___
 
@@ -12,11 +8,11 @@ The Indian Subcontinental Research & Operational Analytical Working Group (ISROA
 
 ___
 
-                    यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।
-                    अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥
+                        यदा यदा हि धर्मस्य ग्लानिर्भवति भारत।
+                        अभ्युत्थानमधर्मस्य तदात्मानं सृजाम्यहम् ॥
 
-                    परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।
-                    धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥
+                        परित्राणाय साधूनां विनाशाय च दुष्कृताम् ।
+                        धर्मसंस्थापनार्थाय सम्भवामि युगे युगे ॥
 
 ___
 
@@ -62,7 +58,7 @@ As a distinguished think tank, ISRAWG brings together a team of seasoned researc
 
 ## **Ethics, Professionalism, Confidentiality, Legal, and Compliance**
 
-At the Indian Subcontinental Research & Analytical Working Group (ISRAWG), we uphold the highest standards of ethics, professionalism, confidentiality, and compliance in all our operations. We are committed to maintaining the trust and confidence of our collaborators, partners, and stakeholders. The following principles guide our approach:
+At the Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG), we uphold the highest standards of ethics, professionalism, confidentiality, and compliance in all our operations. We are committed to maintaining the trust and confidence of our collaborators, partners, and stakeholders. The following principles guide our approach:
 
 **Ethics:** We adhere to a strong ethical framework, ensuring integrity, honesty, and accountability in our research, analysis, and interactions. We conduct ourselves in an ethical manner, upholding the values of objectivity, fairness, and respect for diverse perspectives.
 
@@ -74,20 +70,17 @@ At the Indian Subcontinental Research & Analytical Working Group (ISRAWG), we up
 
 We are dedicated to upholding the highest ethical standards, maintaining professionalism, preserving confidentiality, and complying with all applicable legal and regulatory frameworks. These principles are at the core of our organization and guide us in providing trusted and reliable research and analysis in the defense and security domain.
 
-                कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
-                मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥
+                    कर्मण्येवाधिकारस्ते मा फलेषु कदाचन।
+                    मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥
 
 Jai Hind
 
 ___
 
-<div align="center" style="font-weight: bold; font-size: larger;">
 
-📝 [About Us](about.md) 📫 [Sampark Kare](sampark.md) [© Copyright ™️ Trademark](copyright&trademark.md) ℹ️ [Terms of Use](termsofuse.md) 🔒 [Privacy Policy](privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
+| 📝 [About Us](about.md) | 📫 [Sampark Kare](sampark.md) | [© Copyright ™️ Trademark](copyright&trademark.md) | ℹ️ [Terms of Use](termsofuse.md) | 🔒 [Privacy Policy](privacy&policy.md) | 🐦 [Twitter](https://twitter.com/ISROAWG) |
 
 © 2023 ISROAWG™️. All rights reserved.
 Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
-
-</div>
 
 ___

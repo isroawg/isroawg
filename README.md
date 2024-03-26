@@ -1,6 +1,6 @@
 # **Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)**
 
-[🏛️ Headquarters](docs/home.md) [📚 Research Areas](docs/aboutus/research.md) [📝 Publications](docs/publication/publications.md) | [📰 Magazine](docs/magazine/magazine.md) | [📮 Sampark Kare](doc/aboutus/sampark.md)
+| [🏛️ Headquarters](docs/home.md) | [📚 Research Areas](docs/aboutus/research.md) | [📝 Publications](docs/publication/publications.md) | [📰 Magazine](docs/magazine/magazine.md) | [📮 Sampark Kare](doc/aboutus/sampark.md) |
 
 ___
 
@@ -18,9 +18,8 @@ Jai Hind
 
 ___
 
-![Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG)](docs/israwg_logo.png)
 
-📝 [About Us](docs/aboutus/about.md) 📫 [Sampark Kare](docs/aboutus/sampark.md) [© Copyright ™️ Trademark](docs/aboutus/copyright&trademark.md) ℹ️ [Terms of Use](docs/aboutus/termsofuse.md) 🔒 [Privacy Policy](docs/aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
+| 📝 [About Us](docs/aboutus/about.md) | 📫 [Sampark Kare](docs/aboutus/sampark.md) | [© Copyright ™️ Trademark](docs/aboutus/copyright&trademark.md) | ℹ️ [Terms of Use](docs/aboutus/termsofuse.md) | 🔒 [Privacy Policy](docs/aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/ISROAWG) |
 
 © 2023 ISRAWG™️. All rights reserved.
 Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.

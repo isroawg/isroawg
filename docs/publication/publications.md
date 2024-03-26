@@ -1,10 +1,6 @@
 # **Publications**
 
-<div align="center" style="font-weight: bold; font-size: larger; color: #0000ff;">
-
-[🏛️ Headquarters](../home.md) | [📚 Research Areas](../aboutus/research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](../aboutus/sampark.md)
-
-</div>
+| [🏛️ Headquarters](../home.md) | [📚 Research Areas](../aboutus/research.md) | [📝 Publications](../publication/publications.md) | [📰 Magazine](../magazine/magazine.md) | [📮 Sampark Kare](../aboutus/sampark.md) |
 
 ___
 
@@ -88,19 +84,15 @@ As our mission is to foster a deeper understanding of security challenges and ge
 
 Join us in shaping the future of research and analysis in this vital field, and submit your work to ISROAWG.
 
-For submission guidelines, please refer to [Guidelines for Publications](guideline.md) section.
+For submission guidelines, please refer to our [Guidelines for Publications](guideline.md) section.
 
 Jai Hind
 
 ___
 
-<div align="center" style="font-weight: bold; font-size: larger;">
-
-📝 [About Us](../aboutus/about.md) 📫 [Sampark Kare](../aboutus/sampark.md) [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) ℹ️ [Terms of Use](../aboutus/termsofuse.md) 🔒 [Privacy Policy](../aboutus/privacy&policy.md) 🐦 [Twitter](https://twitter.com/ISROAWG)
+| 📝 [About Us](../aboutus/about.md) | 📫 [Sampark Kare](../aboutus/sampark.md) | [© Copyright ™️ Trademark](../aboutus/copyright&trademark.md) | ℹ️ [Terms of Use](../aboutus/termsofuse.md) | 🔒 [Privacy Policy](../aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/ISROAWG) |
 
 © 2023 ISROAWG™️. All rights reserved.
 Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
-
-</div>
 
 ___
