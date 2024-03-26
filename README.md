@@ -21,7 +21,7 @@ ___
 
 | 📝 [About Us](docs/aboutus/about.md) | 📫 [Sampark Kare](docs/aboutus/sampark.md) | [© Copyright ™️ Trademark](docs/aboutus/copyright&trademark.md) | ℹ️ [Terms of Use](docs/aboutus/termsofuse.md) | 🔒 [Privacy Policy](docs/aboutus/privacy&policy.md) | 🐦 [Twitter](https://twitter.com/ISROAWG) |
 
-© 2023 ISRAWG™️. All rights reserved.
-Indian Subcontinental Research & Analytical Working Group (ISRAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
+© 2023 ISROAWG™️. All rights reserved.
+Indian Subcontinental Research & Operational Analytical Working Group (ISROAWG) is Sole Proprietorship of bhrAtRutva™️ Group.
 
 ___
